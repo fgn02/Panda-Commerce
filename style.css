@@ -1,8 +1,8 @@
 .container{
-    margin-bottom: 90px
+    margin-bottom: 90px;   
 }
 .orange-bg{
-    background-color: #fceae8;
+    background-image: -webkit-linear-gradient(rgb(176, 91, 197), rgb(45, 28, 141),rgb(99, 24, 24));
     border-radius: 10px;
 }
 .buy{
@@ -14,9 +14,7 @@
 .carousel-item{
     padding: 20px 40px;
 }
-.price{
-    color: rgba(45, 17, 202, 0.973);
-}
+
 .cat1{
     background-image: linear-gradient(orange,rgba(214, 144, 15, 0.904));
     padding: 10px 20px;
@@ -42,3 +40,18 @@
 footer{
     text-align: center;
 }
+#xbox{
+    width: 720px;
+    height: 527px;  
+}
+.col-md-7 h1{
+    color: rgb(243, 230, 230);
+}
+.col-md-7 p{
+    color: white;
+}
+.price{
+    color: rgba(45, 17, 202, 0.973);
+
+}
+    
