@@ -1,3 +1,44 @@
+.container{
+    margin-bottom: 90px
+}
 .orange-bg{
     background-color: #fceae8;
+    border-radius: 10px;
+}
+.buy{
+    background-image: linear-gradient(blue, rgb(32, 32, 105));
+    border-radius: 5px;
+    padding: 10px 18px;
+    color: white;
+}
+.carousel-item{
+    padding: 20px 40px;
+}
+.price{
+    color: rgba(45, 17, 202, 0.973);
+}
+.cat1{
+    background-image: linear-gradient(orange,rgba(214, 144, 15, 0.904));
+    padding: 10px 20px;
+    border-radius: 10px;
+}
+.cat2{
+    background-image: linear-gradient(orchid,rgba(122, 40, 122, 0.904));
+    padding: 10px 20px;
+    border-radius: 10px;
+}
+.cat3{
+    background-image: linear-gradient(rgb(22, 25, 218),rgb(104, 18, 202));
+    padding: 10px 20px;
+    border-radius: 10px;
+}
+.card{
+    border: none;
+    box-shadow: 5px 5px 10px lightgray;
+}
+#ContactUs{
+    height: 300px;
+}
+footer{
+    text-align: center;
 }
